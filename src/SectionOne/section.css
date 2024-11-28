@@ -1,0 +1,26 @@
+*{
+    padding: 0 px;
+    margin: 0 px;
+}
+
+.always{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 240px;
+}
+h1{
+    font-family: Inter;
+font-size: 88px;
+font-weight: 500;
+line-height: 93px;
+text-align: center;
+
+
+}

@@ -1,0 +1,25 @@
+* {
+    padding: 0 px;
+    margin: 0 px;
+}
+
+.always {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.section2 {
+    width: 1440px;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.img {
+    width: 393px;
+    height: 393px;
+    text-align: center;
+}
